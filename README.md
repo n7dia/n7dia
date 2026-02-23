@@ -1,31 +1,37 @@
 ## Hi, I am Nadia! 🪴
 
-I am currently learning more about cloud data tools and building practical, end-to-end projects. There are two featured projects on my GitHub to showcase:
+I am currently strengthening my cloud data skills by building practical, end-to-end projects and developing structured reference guides. 
+There are two featured projects on my GitHub:
 
 ### Featured Projects
 
-**1) Healthcare BI Solution**  
+**1) Healthcare BI Solution**<br>
+https://github.com/n7dia/healthcare-bi-solution  
 An end-to-end BI project demonstrating data modeling, ETL pipelines, and interactive dashboard development using Power BI, Azure SQL, and Python.  
-- Star schema design and dimensional modeling  
+- Star schema design and dimensional modelling  
 - ETL workflows for analytics-ready datasets  
 - KPI-driven dashboards for healthcare insights: https://www.youtube.com/watch?v=1rt85BteuPA     
 
-**2) Cloud Data Reference Guides**  
-A structured collection of practical cheat sheets and reference materials covering core cloud data concepts.  
+<br>
+
+**2) Cloud Data Reference Guides**<br>
+https://github.com/n7dia/cloud-data-cheatsheets  
+A structured collection of practical cheatsheets and reference materials covering core cloud data concepts.  
 - Spark, DAX, KQL, and analytics workflows
 - Pipeline patterns and data quality validation 
-- Data modeling and warehouse design  
+- Data modelling and warehouse design  
  
+<br>
 
 ### Tools & Technologies
 Python • SQL • Power BI • Azure SQL • PySpark • DAX • GitHub
 
 ### Focus Areas
-Cloud Data Concepts • Business Intelligence • Data Modeling • Analytics Engineering
+Cloud Data Concepts • Data Modelling • Analytics Engineering
 
 <br>
 
-Thanks for visiting my profile. Feel free to explore the repositories! 
+Thank you for visiting my profile. Feel free to explore the repositories! 
 
 
 
