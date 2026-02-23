@@ -23,6 +23,7 @@ Python • SQL • Power BI • Azure SQL • PySpark • DAX • GitHub
 ### Focus Areas
 Cloud Data Concepts • Business Intelligence • Data Modeling • Analytics Engineering
 
+<br>
 
 Thanks for visiting my profile. Feel free to explore the repositories! 
 
