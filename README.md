@@ -5,8 +5,7 @@ There are two featured projects on my GitHub:
 
 ### Featured Projects
 
-**1) Healthcare BI Solution**<br>
-https://github.com/n7dia/healthcare-bi-solution  
+**1) [Healthcare BI Solution](https://github.com/n7dia/healthcare-bi-solution )**<br>
 An end-to-end BI project demonstrating data modeling, ETL pipelines, and interactive dashboard development using Power BI, Azure SQL, and Python.  
 - Star schema design and dimensional modelling  
 - ETL workflows for analytics-ready datasets  
@@ -14,8 +13,7 @@ An end-to-end BI project demonstrating data modeling, ETL pipelines, and interac
 
 <br>
 
-**2) Cloud Data Reference Guides**<br>
-https://github.com/n7dia/cloud-data-cheatsheets  
+**2) [Cloud Data Reference Guides](https://github.com/n7dia/cloud-data-cheatsheets )**<br>
 A structured collection of practical cheatsheets and reference materials covering core cloud data concepts.  
 - Spark, DAX, KQL, and analytics workflows
 - Pipeline patterns and data quality validation 
